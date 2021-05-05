@@ -11,7 +11,6 @@ conda install nb_conda
 pip install ipykernel
 
 # nb_extension
-conda install nb_conda
 conda install -c conda-forge jupyter_contrib_nbextensions
 pip install autopep8  ## autopep8 extension사용 위함
 pip install jupyterthemes 
